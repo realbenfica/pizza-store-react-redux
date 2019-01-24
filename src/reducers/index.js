@@ -4,5 +4,6 @@ import selectedPizza from './selected-pizza'
 
 export default combineReducers({
   pizzas,
-  selectedPizza
+  selectedPizza,
+  // addPizza
 })

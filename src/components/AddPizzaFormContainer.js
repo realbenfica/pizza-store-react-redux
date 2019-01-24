@@ -18,4 +18,12 @@ class AddPizzaFormContainer extends React.Component {
   }
 }
 
+// const mapStateToProps = (state) => {
+//   return {
+//     addPizza: state.addPizza
+//   }
+// }
+
+// mapStateToProps
+
 export default connect()(AddPizzaFormContainer)
